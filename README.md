@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![rrpavero](https://img.shields.io/badge/rrpavero+-f14e32?style=for-the-badge&logo=rrpavero&logoColor=white&labelColor=101010)](https://git-scm.com/)
-[![rpavero](https://img.shields.io/badge/rpavero-Web-blue?style=for-the-badge&logo=rpavero&logoColor=white&labelColor=101010)](https://github.com/)
+" [![rrpavero](https://img.shields.io/badge/rrpavero+-f14e32?style=for-the-badge&logo=rrpavero&logoColor=white&labelColor=101010)](https://git-scm.com/)
+"[![rpavero](https://img.shields.io/badge/rpavero-Web-blue?style=for-the-badge&logo=rpavero&logoColor=white&labelColor=101010)](https://github.com/)
 
 ![](./Media/header.jpg)
